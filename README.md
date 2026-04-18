@@ -1,35 +1,27 @@
-﻿# Desafio: Jogador de Futebol
+﻿# Desafio: Jogador Futebol
 
-Sistema de cadastro e anÃ¡lise de jogadores de futebol.
+Desafio de lÃ³gica em Python desenvolvido durante meus estudos em AnÃ¡lise e Desenvolvimento de Sistemas (ADS).
 
 ## ðŸŽ¯ DescriÃ§Ã£o
 
-ExercÃ­cio que implementa um sistema para cadastrar jogadores, suas estatÃ­sticas e realizar anÃ¡lises de desempenho.
+ExercÃ­cio prÃ¡tico que implementa algoritmos para manipulaÃ§Ã£o de dados e estruturas em Python.
 
 ## ðŸ› ï¸ Tecnologias Utilizadas
 
 - **Python 3** - Linguagem de programaÃ§Ã£o
 
-## ðŸš€ ExecuÃ§Ã£o
+## ðŸš€ Como Executar
 
 `ash
-# Executar o sistema
-python desafio_jogador_futebol.py
+python desafio-jogador-futebol.py
 `
 
 ## ðŸ“‹ Funcionalidades
 
-- Cadastro de jogadores
-- Registro de estatÃ­sticas (gols, assistÃªncias, jogos)
-- CÃ¡lculo de mÃ©dias
-- Ranking de jogadores
-- RelatÃ³rios de desempenho
-
-## ðŸ’¡ EstatÃ­sticas
-
-- Gols marcados
-- AssistÃªncias
-- Jogos disputados
-- MÃ©dia de gols por jogo
+- ImplementaÃ§Ã£o do algoritmo solicitado
+- Entrada e processamento de dados
+- SaÃ­da formatada dos resultados
 
 ---
+
+*Desenvolvido por EmÃ­lia - Estudante de ADS*
